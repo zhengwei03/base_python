@@ -1,0 +1,6 @@
+test_func_true (test_function.TestDivision) ... ok
+
+----------------------------------------------------------------------
+Ran 1 test in 0.119s
+
+OK

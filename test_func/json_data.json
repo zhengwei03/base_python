@@ -1,0 +1,36 @@
+{
+  "1": {
+    "necessary": {
+      "path": "util",
+      "function": "check_mobile"
+    },
+    "params":{
+      "phone_number": "188222243",
+      "username": "normaluser1",
+      "password": "96cae35ce8a9b0244178bf28e4966c2ce1b8385723a96a6b838858cdd6ca0a1e",
+      "phone_capcode": "999666",
+      "group_id": "6",
+      "user_info": "Ain6Lved30MCb67fuVHVi1x7rPvVg5mFPyG7bH47tMZG4GQ9oS4v+7Zy3ec1QaAH8ty3kpO/BWX6Ha3V4C1MblIyWxsn6SRabqk26Bll0LevlGx2lNYlBKMJKOlPiYB1Gl2eMmP/blZIuBdMLerzz66P4dU0vQ1utvDG26iRoCKdK8vmdGqoqdIUdW+h9O/basqFKNQvUXFe4z4j1A13yB2HeBb6drb8u54srG8DRfoUbFWxbNC6qLxqajvS+IUNhjPV7Segl/iEcIizR7dcdv/pLuny2p57N1cwHcmaGyohfjwyxIlPhLvT5QAoVCf2P0PrnnRKWx1ualpCqmlfcQ=="
+    },
+    "expected_value": {
+      "expected": false
+    }
+  },
+  "2": {
+    "necessary": {
+      "path": "util",
+      "function": "check_mobile"
+    },
+    "params": {
+      "phone_number": "1882222333",
+      "username": "normaluser2",
+      "password": "96cae35ce8a9b0244178bf28e4966c2ce1b8385723a96a6b838858cdd6ca0a1e",
+      "phone_capcode": "999666",
+      "group_id": "6",
+      "user_info": "Ain6Lved30MCb67fuVHVi1x7rPvVg5mFPyG7bH47tMZG4GQ9oS4v+7Zy3ec1QaAH8ty3kpO/BWX6Ha3V4C1MblIyWxsn6SRabqk26Bll0LevlGx2lNYlBKMJKOlPiYB1Gl2eMmP/blZIuBdMLerzz66P4dU0vQ1utvDG26iRoCKdK8vmdGqoqdIUdW+h9O/basqFKNQvUXFe4z4j1A13yB2HeBb6drb8u54srG8DRfoUbFWxbNC6qLxqajvS+IUNhjPV7Segl/iEcIizR7dcdv/pLuny2p57N1cwHcmaGyohfjwyxIlPhLvT5QAoVCf2P0PrnnRKWx1ualpCqmlfcQ=="
+    },
+    "expected_value": {
+      "expected": true
+    }
+  }
+}
